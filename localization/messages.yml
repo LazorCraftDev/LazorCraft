@@ -1,1 +1,290 @@
-#Русский язык
+LANGUAGE_CHANGE:
+  - '§fВаш язык изменён на §a%s'
+  - '§fНа данный момент смена языка работает только в главном лобби!'
+LANGUAGE_ERROR: '§cОшибка, этот язык уже выбран!'
+LANGUAGE_SELECTED: '§aВыбран'
+LANGUAGE_CLICK_TO_CHANGE: '§e▸ Нажмите, чтобы сменить язык'
+
+JOIN_TO_LOBBY: ' §a▸ §r%s §6зашел на сервер'
+
+JOIN_MESSAGE_CHRISTMAS_1: ' §a▸ §r%s §7зашел и слепил снеговика'
+JOIN_MESSAGE_CHRISTMAS_2: ' §a▸ §r%s §7пришёл поиграть с вами'
+JOIN_MESSAGE_CHRISTMAS_3: ' §a▸ §r%s §7принёс мешок с конфетами'
+JOIN_MESSAGE_CHRISTMAS_4: ' §a▸ §r%s §7проскальзывает на сервер'
+
+JOIN_MESSAGE_NORMAL_1: ' §a▸ §6Эй, друзья §r%s §6уже здесь!'
+JOIN_MESSAGE_NORMAL_2: ' §a▸ §r%s §6подключился. Меня могут похитить?'
+JOIN_MESSAGE_NORMAL_3: ' §a▸ §r%s §6заскочил на сервер. Кенгуру!!'
+JOIN_MESSAGE_NORMAL_4: ' §a▸ §r%s §6- на шаг впереди!'
+JOIN_MESSAGE_NORMAL_5: ' §a▸ §r%s §6здесь, как и было предсказано'
+JOIN_MESSAGE_NORMAL_BOSS: ' §a▸ §r%s §6подключился. Наши молитвы были услышаны!'
+
+
+PREFIX_SELECTED: '§aПрефикс выбран'
+PREFIX_SUCCESSFULLY: '§fВаш префикс успешно изменен на %s'
+PREFIX_RESET: '§fВаш префикс сброшен'
+REFIX_ALREADY: '§cОшибка, вы не можете установить этот префикс'
+
+JOIN_MESSAGE_SELECTED : '§aСообщение выбрано'
+JOIN_MESSAGE_NOT_SELECTED: '§e▸ Нажмите, чтобы выбрать'
+JOIN_MESSAGE_NOT_AVAILABLE: '§cДанное сообщение вам не доступно'
+JOIN_MESSAGE_ALREADY_ENABLE: '§fСообщение под номером §a#%s §fуже активировано'
+JOIN_MESSAGE_ENABLE: '§fСообщение под номером §a#%s §fактивировано'
+JOIN_MESSAGE_DISABLE: '§fСообщение под номером §c#%s §fдеактивировано'
+JOIN_MESSAGE_LORE: '§7Установите кастомное оповещение'
+JOIN_MESSAGE_LORE_2: '§7для всех игроков о вашем входе на сервер'
+JOIN_MESSAGE_LORE_3: '§7Оповещение для игроков:'
+JOIN_MESSAGE_MAIN_LORE:
+  - '§7Установить кастомное сообщение'
+  - '§7вашего входа на сервер'
+  - ''
+  - '§7Доступно для §a[EMERALD] §7и выше'
+  - ''
+  - '§e▸ Открыть меню сообщений при входе'
+JOIN_MESSAGE_RIGHTCLICK_HELP: '§8Вы также можете отключить это сообщение,'
+JOIN_MESSAGE_RIGHTCLICK_HELP_2: '§8просто нажмите ПКМ по сообщению'
+
+FAST_MESSAGE_MAIN_LORE: '§7Покажи всем какой ты сегодня,'
+FAST_MESSAGE_MAIN_LORE_2: '§7используя эти быстрые сообщения'
+FAST_MESSAGE_MAIN_LORE_3: '§7Доступно для %s §7и выше'
+FAST_MESSAGE_MAIN_LORE_4: '§7Для быстрого открытия меню используйте'
+FAST_MESSAGE_MAIN_LORE_5: '§7команду §c/fm §7или §c/fastmessages'
+
+FAST_MESSAGE_LORE: '§7Сообщение: §a'
+FAST_MESSAGE_LORE_NOT_AVAILABLE: '§cНедоступно!'
+FAST_MESSAGE_LORE_NOT_AVAILABLE_2: '§7Доступно от %s §7и выше'
+
+FAST_MESSAGE_CHAT_FORMAT: ' %s §f✎ §e%m'
+
+FAST_MESSAGE_HELLO: 'Привет! (^ω^)ノ'
+FAST_MESSAGE_GO: 'Гоу ┌( ಠ_ಠ)┘'
+FAST_MESSAGE_SLEEP: 'Засыпаю (－ω－) zzZ'
+FAST_MESSAGE_GOODBYE: 'Пока ╰(╯︵╰,)'
+FAST_MESSAGE_WHY: 'Чее? ＼(〇_ｏ)／'
+FAST_MESSAGE_CAPITULATE: 'Сдаюсь (×_×)尸'
+FAST_MESSAGE_MAJOR: 'Мажор $ (ಠ_ಠ) $'
+FAST_MESSAGE_SAD: 'Грущу (╯︵╰,)'
+FAST_MESSAGE_GO_AWAY: 'Пошел вон ( ╯°□°)╯ ┻━━┻'
+FAST_MESSAGE_EATING: 'Кушаю ( ˘▽˘)っ♨'
+FAST_MESSAGE_LAGS: 'Лагает (ノ°益°)ノ'
+FAST_MESSAGE_ACCESSIBLY: 'Ясно ┐(︶▽︶)┌'
+FAST_MESSAGE_DONT_STUPID: 'Не тупи (; -_-)'
+FAST_MESSAGE_NICELY: 'Мило (＾• ω •＾)'
+FAST_MESSAGE_OFFENSIVELY: 'Обидно (个_个)'
+FAST_MESSAGE_KILLED: 'Убит (ﾒ￣▽￣)︻┳═一'
+FAST_MESSAGE_DANCING: 'Танцую ┌(^^)┘'
+FAST_MESSAGE_LOVE: 'Люблю ( ˘⌣˘)♡'
+FAST_MESSAGE_MUSIC: 'Слушаю музыку (￣▽￣)/♫¸¸♪¯'
+FAST_MESSAGE_GIVE_RESOURCES: 'Дай ресов 凸◟(º o º )'
+
+SETTINGS_MAIN_LORE: '§7Персональные настройки:'
+SETTINGS_MAIN_LORE_FLY: ' §8▪ §7Полёт: %s'
+SETTINGS_MAIN_LORE_GLOWING: ' §8▪ §7Подсветка в лобби: %s'
+SETTINGS_MAIN_LORE_SHOW_HIDE: ' §8▪ §7Скрытие игроков: %s'
+SETTINGS_LORE_FLY: '§7Позволяет включить или выключить'
+SETTINGS_LORE_FLY_2: '§7полет в главном лобби'
+SETTINGS_LORE_GLOWING: '§7Позволяет включить или выключить'
+SETTINGS_LORE_GLOWING_2: '§7подсветку своего скина в лобби'
+SETTINGS_LORE_STATUS: '§7Статус: %s'
+
+GROUP_CHANGE: '§fВаша привилегия изменена на %s'
+GROUP_CHANGE_TO: '§fИгроку %s§f была установлена привилегия %m'
+GROUP_MESSAGE:
+  - ' §7/group set <ник> <группа> §f- обновить привилегию'
+  - ' §7/group reset <ник> §f- удалить привилегию'
+
+DONATE_MAIN_LORE: 
+  - '§7Подробная информацияо возможностях'
+  - '§7привилегий и их покупки'
+  - ''
+  - '§e▸ Открыть меню привилегий'
+
+STATISTIC_MAIN_LORE:
+  - '§7Игровая статистика со всех режимов и подрежимов'
+  - '§7Меню статистика можно открыть'
+  - '§7как и здесь, так и командой §c/stats'
+  - '§7'
+  - '§e▸ Открыть меню статистики'
+
+CLICK_TO_ENABLED: '§e▸ Нажмите, чтобы включить'
+CLICK_TO_DISABLED: '§e▸ Нажмите, чтобы отключить'
+
+SETTINGS_CLICK_TO_ENABLED: '§7Нажмите, чтобы включить'
+SETTINGS_CLICK_TO_DISABLED: '§7Нажмите, чтобы отключить'
+
+NOT_AVAILABLE: '§cНедоступно!'
+NOT_AVAILABLE_2: '§7Доступно от %s §7и выше'
+
+CLICK_TO_OPEN: '§e▸ Открыть меню %s'
+CLICK_TO_SEND: '§e▸ Нажмите, чтобы отправить'
+CLICK_TO_CONNECT: '§e▸ Нажмите, чтобы подключиться'
+
+PLAYER_NOT_FOUND: '§cОшибка, игрок %s не найден'
+
+ERROR_COMMAND: '§cОшибка, пишите %s'
+SUB_COMMAND: '§e▸ Подкоманды для %s:'
+
+NO_PERMS: '§cУ вас нет прав'
+NO_PERMS_GROUP: '§cУ вас нет прав, купите %s§c или выше'
+NO_PERMS_GROUP_NEW: '§fОшибка, у вас недостаточно прав для использования команды §c%c§f. Приобретите привилегию %s §fили выше'
+
+STAFF_CONNECTED_IP: '§7[IP: %s]'
+STAFF_CONNECTED: '§7%s §7зашёл на сервер %i'
+
+#Предметы в лобби
+LOBBY_PROFILE_ITEM: '§eПрофиль игрока §r%s'
+LOBBY_PROFILE_ITEM_LORE: 
+  - '§7Полезная информация'
+LOBBY_SELECTOR_ITEM: '§eВыбор режима'
+LOBBY_LSELECTOR_ITEM: '§eВыбор лобби'
+
+SKYWARS_ITEM_NAME: '§aSkyWars'
+SKYWARS_ITEM_LORE:
+  - '§8Битвы на островах'
+  - ''
+  - '§7Вы появляетесь на острове'
+  - '§7и ваша цель убить всех'
+  - '§7игроков и победить!'
+  - '§7У вас нет права на ошибку,'
+  - '§71 шаг и вы летите вниз.'
+  - ''
+  - '§e▸ Нажмите, чтобы подключиться'
+  - '§7Играют: %o'
+
+#Имена названий гуи
+PROFILE_GUI: 'Профиль'
+PROFILE_GUI_OTHER: 'Профиль ▸ %s'
+
+#Вкл/Выкл
+ENABLED: '§aВключено'
+DISABLED: '§cОтключено'
+
+#Предметы
+BACK: '§cНазад'
+BACK_LORE: '§7Нажмите, чтобы вернуться на шаг назад'
+
+#Шняги
+FLY: 'Полет'
+GLOWING: 'Подсветка'
+
+#Скорборд
+BOARD_GROUP: ' §fСтатус: %s'
+BOARD_MONEY: ' §fБаланс: §6%s'
+BOARD_LEVEL: ' §fУровень: §d%s'
+BOARD_EXPERIENCE: ' §fОпыт: §3%t§f/§b%n'
+BOARD_TOTAL_ONLINE: ' §fОбщий онлайн: §a%s'
+BOARD_SITE: '§ewww.quardexmc.net'
+
+#StarLevels
+STARLEVELS_LEVEL_SET: '§fИгроку %s §fустановлен %l §fуровень'
+
+#StarEconomy
+MONEY_ADD: '§fИгроку %s §fдобавлено §a%m §fмонет'
+MONEY_SET: '§fИгроку %s §fустановлено §a%m §fмонет'
+BALANCE: '§fНа вашем аккаунте §a%m §fмонет'
+ACTIION_BAR_MONEY: '§6+ %m монет'
+
+#Вскоре MessagesAPI
+MY_ONLINE_TIME: '§fВремени проведено на сервере - §a%t'
+PLAYER_ONLINE_TIME: '§fИгрок %s §fпровел на сервере - §a%t'
+
+SECONDS:
+  SECONDS_1: 'секунда'
+  SECONDS_2: 'секунды'
+  SECONDS_3: 'секунд'
+MINUTES:
+  MINUTES_1: 'минуту'
+  MINUTES_2: 'минуты'
+  MINUTES_3: 'минут'
+HOURS:
+  HOURS_1: 'час'
+  HOURS_2: 'часа'
+  HOURS_3: 'часов'
+DAYS:
+  DAYS_1: 'день'
+  DAYS_2: 'дня'
+  DAYS_3: 'дней'
+WEEKS: 
+  WEEKS_1: 'неделя'
+  WEEKS_2: 'недели'
+  WEEKS_3: 'недель'
+MONTHS:
+  MONTHS_1: 'месяц'
+  MONTHS_2: 'месяца'
+  MONTHS_3: 'месяцев' 
+YEARS:
+  YEARS_1: 'год'
+  YEARS_2: 'года'
+  YEARS_3: 'лет'
+
+
+INFO_DONATE:
+  - '§7Список привилегий:'
+  - ' §8▪ §e[GOLD] §f- 15 Рублей'
+  - ' §8▪ §b[DIAMOND] §f- 50 Рублей'
+  - ' §8▪ §a[EMERALD] §f- 100 Рублей'
+  - ' §8▪ §c[MAGMA] §f- 150 Рублей'
+  - ' §8▪ §6[SHULKER] §f- 300 Рублей'
+  - ''
+  - '§7Подробное описание привилегий можно'
+  - '§7найти в разделе §fПрофиль ▸ Привилегии'
+  - ''
+  - '§7Привилегии приобретаются на сайте:'
+  - '§ewww.lazorcraft.ru'
+
+#Alternate
+ALTERNATE_TIME_SET: '§fУстановлено время - §a%s'
+
+ALTERNATE_KILL: '§fВы убили %s'
+ALTERNATE_INVENTORY_TO: '§fОткрываем инвентарь игрока %s'
+
+ALTERNATE_TP: '§fВы были телепортированы к игроку %s'
+ALTERNATE_TP_TO: '§fИгрок %s §fтелепортирован к игроку %t'
+ALTERNATE_TPPOS: '§fТелепортируем на координаты: §a%s'
+ALTERNATE_NUMBER_ERROR: '§cАргументы неверны, вы ввели слишком много цифр!'
+
+CLEAR_INV: '§fВсе предметы удалены'
+CLEAR_INV_TO: '§fУ игрока %s §fудалены все предметы'
+
+ALTERNATE_GLOWING: '§fРежим подсветки - %s'
+ALTERNATE_GLOWING_TO: '§fИгроку %s§f режим подсветки - %m'
+
+ALTERNATE_FLYING: '§fРежим полета - %s'
+ALTERNATE_FLYING_TO: '§fИгроку %s§f режим полета - %m'
+
+ALTERNATE_GAMEMODE_CHANGE: '§fУстановлен режим - §a%s'
+ALTERNATE_GAMEMODE_CHANGE_TO: '§fИгроку %s§f установлен режим - §a%m'
+
+COMPASS: '§fВаш компас указывает на координаты §a%s'
+
+CALL_YOU: '§cОшибка, вы не можете отправить запрос самому себе'
+
+HEAL: '§fХП восстановлено'
+HEAL_TO: '§fХП восстановлено игроку %s'
+
+FEED: '§fГолод восстановлен'
+FEED_TO: '§fГолод восстановлен игроку %s'
+
+SURVIVAL: 'Выживание'
+ADVENTURE: 'Приключенческий'
+CREATIVE: 'Креатив'
+SPECTATOR: 'Наблюдатель'
+
+ALTERNATE_ITEMDB: '§fПредмет §a%s §f- §e%t'
+ALTERNATE_ITEMDB_ERROR: '§cОшибка, id не верен!'
+
+ALTERNATE_NEAR: 'Ближайшие игроки: %s'
+ALTERNATE_NEAR_NOT_FOUND: 'Ближайших игроков нет'
+
+LIST:
+  - '§6StarAPI §8| §fНа режиме §a%s'
+  - ' §a▪ §fАдминистрация: %a'
+  - ' §a▪ §fДонатеры: %d'
+  - ' §a▪ §fИгроки: %p'
+LIST_EMPTY: '§8Никого нет'
+
+PLAYERS_1:
+- 'игрок'
+- ''
+- 'а'
+- 'ов'
