@@ -19,10 +19,6 @@ JOIN_MESSAGE_NORMAL_4: ' §a▸ §r%s §6- на шаг впереди!'
 JOIN_MESSAGE_NORMAL_5: ' §a▸ §r%s §6здесь, как и было предсказано'
 JOIN_MESSAGE_NORMAL_6: ' §a▸ §r%s §6ахуенный чел залетел!'
 
-MYPREFIX_SUCCESSFULLY: '§fYour prefix has been successfully changed to %s'
-MYPREFIX_RESET: '§fYour prefix is reset'
-MYPREFIX_NOT_GROUP: '§cError, you cannot set this prefix.'
-
 JOIN_MESSAGE_SELECTED : '§aMessage selected'
 JOIN_MESSAGE_NOT_SELECTED: '§e▸ Click to select'
 JOIN_MESSAGE_NOT_AVAILABLE: '§cThis message is not available to you'
@@ -100,11 +96,7 @@ STATISTIC_MAIN_LORE:
   - '§7as here as well as the §c/stats §7command'
   - '§7'
   - '§e▸ Open the statistics menu'
-
-#STATISTIC_MAIN_LORE: '§7Игровая статистика со всех режимом и подрежимов'
-#STATISTIC_MAIN_LORE_2: '§7Меню статистики можно открыть'
-#STATISTIC_MAIN_LORE_3: '§7как и здесь, так и командой §c/stats'
-
+  
 CLICK_TO_ENABLED: '§e▸ Click to enable'
 CLICK_TO_DISABLED: '§e▸ Click to disable'
 
@@ -182,40 +174,10 @@ STARLEVELS_LEVEL_SET: '§fИгроку %s §fустановлен %l §fуров
 MONEY_ADD: '§fИгроку %s §fдобавлено §a%m §fмонет'
 MONEY_SET: '§fИгроку %s §fустановлено §a%m §fмонет'
 BALANCE: '§fНа вашем аккаунте §a%m §fмонет'
-ACTIION_BAR_MONEY: '§6+ %m монет'
 
 #Вскоре MessagesAPI
 MY_ONLINE_TIME: '§fTime spent on server - §a%t'
 PLAYER_ONLINE_TIME: '§fPlayer %s §fspent on server - §a%t'
-
-SECONDS:
-  SECONDS_1: 'секунда'
-  SECONDS_2: 'секунды'
-  SECONDS_3: 'секунд'
-MINUTES:
-  MINUTES_1: 'минуту'
-  MINUTES_2: 'минуты'
-  MINUTES_3: 'минут'
-HOURS:
-  HOURS_1: 'час'
-  HOURS_2: 'часа'
-  HOURS_3: 'часов'
-DAYS:
-  DAYS_1: 'день'
-  DAYS_2: 'дня'
-  DAYS_3: 'дней'
-WEEKS: 
-  WEEKS_1: 'неделя'
-  WEEKS_2: 'недели'
-  WEEKS_3: 'недель'
-MONTHS:
-  MONTHS_1: 'месяц'
-  MONTHS_2: 'месяца'
-  MONTHS_3: 'месяцев' 
-YEARS:
-  YEARS_1: 'год'
-  YEARS_2: 'года'
-  YEARS_3: 'лет'
 
 INFO_DONATE:
   - '§7List of paid statuses:'
@@ -256,7 +218,7 @@ ALTERNATE_GAMEMODE_CHANGE_TO: '§fChanged gamemode for %s §fto §a%m'
 
 COMPASS: '§fYour compass points to the coordinates §a%s'
 
-CALL_YOU: '§cОшибка, вы не можете отправить запрос самому себе'
+CALL_YOU: '§cError, you cannot send the request to yourself'
 
 HEAL: '§fHP restored'
 HEAL_TO: '§fHP restored to player %s'
