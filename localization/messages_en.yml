@@ -17,6 +17,7 @@ JOIN_MESSAGE_NORMAL_2: ' §a▸ §r%s §6подключился. Меня мог
 JOIN_MESSAGE_NORMAL_3: ' §a▸ §r%s §6заскочил на сервер. Кенгуру!!'
 JOIN_MESSAGE_NORMAL_4: ' §a▸ §r%s §6- на шаг впереди!'
 JOIN_MESSAGE_NORMAL_5: ' §a▸ §r%s §6здесь, как и было предсказано'
+JOIN_MESSAGE_NORMAL_6: ' §a▸ §r%s §6ахуенный чел залетел!'
 
 MYPREFIX_SUCCESSFULLY: '§fYour prefix has been successfully changed to %s'
 MYPREFIX_RESET: '§fYour prefix is reset'
