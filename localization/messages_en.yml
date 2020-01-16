@@ -45,33 +45,6 @@ JOIN_MESSAGE_MAIN_LORE:
 JOIN_MESSAGE_RIGHTCLICK_HELP: '§8You can also disable this message,'
 JOIN_MESSAGE_RIGHTCLICK_HELP_2: '§8just click RMB on the message'
 
-FAST_MESSAGE_LORE: '§7Message: §a'
-FAST_MESSAGE_LORE_NOT_AVAILABLE: '§cUnavailable!'
-FAST_MESSAGE_LORE_NOT_AVAILABLE_2: '§7Available from %s §7or higher'
-
-FAST_MESSAGE_CHAT_FORMAT: ' %s §f✎ §e%m'
-
-FAST_MESSAGE_HELLO: 'Привет! (^ω^)ノ'
-FAST_MESSAGE_GO: 'Гоу ┌( ಠ_ಠ)┘'
-FAST_MESSAGE_SLEEP: 'Засыпаю (－ω－) zzZ'
-FAST_MESSAGE_GOODBYE: 'Пока ╰(╯︵╰,)'
-FAST_MESSAGE_WHY: 'Чее? ＼(〇_ｏ)／'
-FAST_MESSAGE_CAPITULATE: 'Сдаюсь (×_×)尸'
-FAST_MESSAGE_MAJOR: 'Мажор $ (ಠ_ಠ) $'
-FAST_MESSAGE_SAD: 'Грущу (╯︵╰,)'
-FAST_MESSAGE_GO_AWAY: 'Пошел вон ( ╯°□°)╯ ┻━━┻'
-FAST_MESSAGE_EATING: 'Кушаю ( ˘▽˘)っ♨'
-FAST_MESSAGE_LAGS: 'Лагает (ノ°益°)ノ'
-FAST_MESSAGE_ACCESSIBLY: 'Ясно ┐(︶▽︶)┌'
-FAST_MESSAGE_DONT_STUPID: 'Не тупи (; -_-)'
-FAST_MESSAGE_NICELY: 'Мило (＾• ω •＾)'
-FAST_MESSAGE_OFFENSIVELY: 'Обидно (个_个)'
-FAST_MESSAGE_KILLED: 'Убит (ﾒ￣▽￣)︻┳═一'
-FAST_MESSAGE_DANCING: 'Танцую ┌(^^)┘'
-FAST_MESSAGE_LOVE: 'Люблю ( ˘⌣˘)♡'
-FAST_MESSAGE_MUSIC: 'Слушаю музыку (￣▽￣)/♫¸¸♪¯'
-FAST_MESSAGE_GIVE_RESOURCES: 'Дай ресов 凸◟(º o º )'
-
 SETTINGS_MAIN_LORE: '§7Personal settings:'
 SETTINGS_MAIN_LORE_FLY: ' §8▪ §7Fly: %s'
 SETTINGS_MAIN_LORE_GLOWING: ' §8▪ §7Hub glowing: %s'
@@ -79,19 +52,6 @@ SETTINGS_MAIN_LORE_SHOW_HIDE: ' §8▪ §7Hide player waiting: %s'
 
 GROUP_CHANGE: '§fYour group has been changed to %s'
 GROUP_CHANGE_TO: '§fPlayer %s§f group set to %m'
-
-DONATE_MAIN_LORE: 
-  - '§7Подробная информацияо возможностях'
-  - '§7привилегий и их покупки'
-  - ''
-  - '§e▸ Открыть меню привилегий'
-
-STATISTIC_MAIN_LORE:
-  - '§7Game statistics with all modes and sub modes'
-  - '§7Statistics menu can be opened'
-  - '§7as here as well as the §c/stats §7command'
-  - '§7'
-  - '§e▸ Open the statistics menu'
   
 CLICK_TO_ENABLED: '§e▸ Click to enable'
 CLICK_TO_DISABLED: '§e▸ Click to disable'
@@ -114,9 +74,6 @@ NO_PERMS: '§cYou do not have permission'
 NO_PERMS_GROUP: '§cYou do not have permission, buy %s§c or higher'
 NO_PERMS_GROUP_NEW: '§fError, you do not have permission to use command §c%c§f. Buy %s §for higher'
 
-STAFF_CONNECTED_IP: '§7[IP: %s]'
-STAFF_CONNECTED: '§7%s §7зашёл на сервер %i'
-
 #Предметы в лобби
 LOBBY_PROFILE_ITEM: '§eProfile of §r%s'
 LOBBY_PROFILE_ITEM_LORE:
@@ -134,8 +91,9 @@ SKYWARS_ITEM_LORE:
   - '§7You have no right to make a mistake,'
   - '§71 step and you fly down.'
   - ''
+  - '§8test'
+  - ''
   - '§e▸ Click to connect'
-  - '§7Currently playing: %o'
 
 PROFILE_ITEM: '§bGeneral information'
 
