@@ -1,1 +1,5 @@
-1
+STAFF_LIST: 
+ - '§6StarAPI §8| §fThere are §a%s §f%s on the server'
+ - ' §a◾ §fAdministrators: %s'
+ - ' §a◾ §fModerators: %s'
+STAFF_NOT_FOUND: '§8There is not anyone'
