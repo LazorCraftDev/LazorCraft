@@ -22,7 +22,7 @@ JOIN_MESSAGE_NORMAL_6: ' §a▸ §r%s §6Тут это, админ зашел <3
 JOIN_MESSAGE_NORMAL_7: ' §a▸ §r%s §6Ас-саляму влейкум!'
 JOIN_MESSAGE_NORMAL_8: ' §a▸ §r%s §6Камеру вырубай!'
 JOIN_MESSAGE_NORMAL_9: ' §a▸ §r%s §6Читы офф!'
-JOIN_MESSAGE_NORMAL_10: ' §a▸ §r%s §6НУ типа, привет!'
+JOIN_MESSAGE_NORMAL_10: ' §a▸ §r%s §6Ну типа, привет!'
 
 PREFIX_SELECTED: '§aPrefix selected'
 PREFIX_SUCCESSFULLY: '§fYour prefix has been successfully changed to %s'
