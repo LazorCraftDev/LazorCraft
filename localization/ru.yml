@@ -188,6 +188,14 @@ INFO_DONATE:
   - '§7Привилегии приобретаются на сайте:'
   - '§ewww.lazorcraft.ru'
 
+#DonateGUI
+GOLD_ITEM_NAME: '§eGOLD'
+GOLD_ITEM_LORE: 
+  - ''
+  - ' §8▪ §fПреффикс §e[GOLD]'
+  - ' §8▪ §fСообщение при входе'
+  - ' §8▪ §fДоступен чат донатеров §f- /dc'
+
 #Alternate
 ALTERNATE_TIME_SET: '§fУстановлено время - §a%s'
 
