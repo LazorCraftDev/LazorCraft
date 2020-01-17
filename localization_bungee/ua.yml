@@ -17,3 +17,7 @@ ERROR_COMMAND: '§cПомилка, запис %s'
 PING: '§fВаш пінг §a%s §fms'
 
 LIST: '§fОнлайн проекту §a%s §f%s'
+
+PLUGIN_INFO:
+  - ' §8▪ §fПлагін: §a%s %s'
+  - ' §8▪ §fРозробники: %s §fта %s'

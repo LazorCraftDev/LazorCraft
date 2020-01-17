@@ -17,3 +17,7 @@ ERROR_COMMAND: '§cError, write %s'
 PING: '§fYour ping §a%s §fms'
 
 LIST: '§fOnline project §a%s §f%s'
+
+PLUGIN_INFO:
+  - ' §8▪ §fPlugin: §a%s %s'
+  - ' §8▪ §fDevelopers: %s §fand %s'
