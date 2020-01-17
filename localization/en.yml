@@ -148,6 +148,7 @@ ALTERNATE_GAMEMODE_CHANGE_TO: '§fChanged gamemode for %s §fto §a%m'
 COMPASS: '§fYour compass points to the coordinates §a%s'
 
 CALL_YOU: '§cError, you cannot send the request to yourself'
+CALL_ERROR: '§cError, You have already sent a request to the player %s'
 
 HEAL: '§fHP restored'
 HEAL_TO: '§fHP restored to player %s'
