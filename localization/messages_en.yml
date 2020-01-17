@@ -5,6 +5,11 @@ LANGUAGE_ERROR: '§cError, this language has already been selected!'
 LANGUAGE_SELECTED: '§aSelected'
 LANGUAGE_CLICK_TO_CHANGE: '§e▸ Click to change language'
 
+CRASH: '§fYou crashed a player’s client %s'
+CRASH_FORMAT: '/crash <player name>'
+CRASH_ERROR: '§cError, you cannot crash a player’s client %s'
+CRASH_ERROR_YOU: '§cError, you can't crash yourself'
+
 PREFIX_SELECTED: '§aPrefix selected'
 PREFIX_SUCCESSFULLY: '§fYour prefix has been successfully changed to %s'
 PREFIX_RESET: '§fYour prefix is reset'
