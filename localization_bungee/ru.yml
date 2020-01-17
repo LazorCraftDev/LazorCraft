@@ -1,6 +1,6 @@
 FIND_RESULT: '§fИгрок %s §fнаходится на сервере §c%s'
 
-PLAYER_NOT_FOUND: '§cОшибка, игрок %s не найден'
+PLAYER_NOT_FOUND: '§cОшибка, игрок %s не найден 1 11'
 
 ERROR_COMMAND: '§cОшибка, пишите %s'
 
