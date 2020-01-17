@@ -11,3 +11,7 @@ STAFF_LIST:
  - ' §a◾ §fAdministrators: %s'
  - ' §a◾ §fModerators: %s'
 STAFF_NOT_FOUND: '§8There is not anyone'
+
+ERROR_COMMAND: '§cError, write %s' 
+
+PING: '§fYour ping §a%s §fms'
