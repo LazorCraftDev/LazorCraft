@@ -19,5 +19,6 @@ PING: '§fYour ping §a%s §fms'
 LIST: '§fOnline project §a%s §f%s'
 
 PLUGIN_INFO:
+  - '§fInformation of plugin:'
   - ' §8▪ §fPlugin: §a%s %s'
   - ' §8▪ §fDevelopers: %s §fand %s'
