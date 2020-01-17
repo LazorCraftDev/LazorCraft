@@ -189,8 +189,6 @@ LIST:
   - ' §a▪ §fГравці: %p'
 LIST_EMPTY: '§8Нікого немає'
 
-PLAYERS_1:
-- 'грав'
-- 'ець'
-- 'ців'
-- 'ця'
+#MiniGames
+JOIN_GAMER_ARENA: '%s §fприєднався до гри (§a%s§f/§a%s§f)'
+QUIT_GAMER_ARENA: '%s §fпокинув гру (§c%s§f/§a%s§f)'

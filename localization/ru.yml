@@ -218,8 +218,6 @@ LIST:
   - ' §a▪ §fИгроки: %p'
 LIST_EMPTY: '§8Никого нет'
 
-PLAYERS_1:
-- 'игрок'
-- ''
-- 'а'
-- 'ов'
+#MiniGames
+JOIN_GAMER_ARENA: '%s §fприсоединился к игре (§a%s§f/§a%s§f)'
+QUIT_GAMER_ARENA: '%s §fпокинул игру (§c%s§f/§a%s§f)'

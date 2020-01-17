@@ -2,6 +2,10 @@ FIND_RESULT: '§fPlayer %s §fnow at the server §c%s'
 
 PLAYER_NOT_FOUND: '§cError, player %s not found'
 
+KICK_FORMAT: '/kick <player name> <reason>'
+BROADCAST_KICK: '%s §fkicked %s §ffor §e%s'
+YOU_CANT_KICK: '§cError, you cannot kick this player.'
+
 STAFF_LIST: 
  - '§6StarAPI §8| §fThere are §a%s §f%s on the server'
  - ' §a◾ §fAdministrators: %s'

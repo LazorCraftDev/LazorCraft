@@ -2,6 +2,10 @@ FIND_RESULT: '§fГравець %s §fзнаходиться на сервері
 
 PLAYER_NOT_FOUND: '§cПомилка, гравець %s не знайдений'
 
+KICK_FORMAT: '/kick <нік гравця> <причина>'
+BROADCAST_KICK: '%s §fкікнув %s по причині §e%s'
+YOU_CANT_KICK: '§cПомилка, ви не можете кікнути цього гравця'  
+
 STAFF_LIST: 
  - '§6StarAPI §8| §fНа сервері §a%s §f%s'
  - ' §a◾ §fАдміністратори: %s'

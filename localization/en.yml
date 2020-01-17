@@ -172,3 +172,7 @@ LIST:
   - ' §a▪ §fDonate: %d'
   - ' §a▪ §fPlayers: %p'
 LIST_EMPTY: '§8There is not anyone'
+
+#MiniGames
+JOIN_GAMER_ARENA: '%s §fjoined the game (§a%s§f/§a%s§f)'
+QUIT_GAMER_ARENA: '%s §fleft the game (§c%s§f/§a%s§f)'
