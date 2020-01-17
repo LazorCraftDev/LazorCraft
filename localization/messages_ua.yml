@@ -5,18 +5,10 @@ LANGUAGE_ERROR: '§cПомилка, ця мова вже обрана!'
 LANGUAGE_SELECTED: '§aОбрано'
 LANGUAGE_CLICK_TO_CHANGE: '§e▸ Натисніть, щоб змінити мову'
 
-JOIN_TO_LOBBY: ' §a▸ §r%s §6зашел на сервер'
-
-JOIN_MESSAGE_CHRISTMAS_1: ' §a▸ §r%s §7зашел и слепил снеговика'
-JOIN_MESSAGE_CHRISTMAS_2: ' §a▸ §r%s §7пришёл поиграть с вами'
-JOIN_MESSAGE_CHRISTMAS_3: ' §a▸ §r%s §7принёс мешок с конфетами'
-JOIN_MESSAGE_CHRISTMAS_4: ' §a▸ §r%s §7проскальзывает на сервер'
-
-JOIN_MESSAGE_NORMAL_1: ' §a▸ §6Эй, друзья §r%s §6уже здесь!'
-JOIN_MESSAGE_NORMAL_2: ' §a▸ §r%s §6подключился. Меня могут похитить?'
-JOIN_MESSAGE_NORMAL_3: ' §a▸ §r%s §6заскочил на сервер. Кенгуру!!'
-JOIN_MESSAGE_NORMAL_4: ' §a▸ §r%s §6- на шаг впереди!'
-JOIN_MESSAGE_NORMAL_5: ' §a▸ §r%s §6здесь, как и было предсказано'
+CRASH: '§fВи зламали клієнт гравця %s'
+CRASH_FORMAT: '/crash <нік гравця>'
+CRASH_ERROR: '§cПомилка, Ви не можете зламати клієнт гравця %s'
+CRASH_ERROR_YOU: '§cПомилка, ти не можеш сам себе зламати!'
 
 PREFIX_SELECTED: '§aПрефікс обраний'
 PREFIX_SUCCESSFULLY: '§fВаш префікс успішно змінений на %s'
