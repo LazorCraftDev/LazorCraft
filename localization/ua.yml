@@ -30,33 +30,6 @@ JOIN_MESSAGE_MAIN_LORE:
 JOIN_MESSAGE_RIGHTCLICK_HELP: '§8Ви також можете відключити це повідомлення,'
 JOIN_MESSAGE_RIGHTCLICK_HELP_2: '§8просто натисніть ПКМ по повідомленню'
 
-FAST_MESSAGE_LORE: '§7Повідомлення: §a'
-FAST_MESSAGE_LORE_NOT_AVAILABLE: '§cНедоступно!'
-FAST_MESSAGE_LORE_NOT_AVAILABLE_2: '§7Доступно от %s §7і вище'
-
-FAST_MESSAGE_CHAT_FORMAT: ' %s §f✎ §e%m'
-
-FAST_MESSAGE_HELLO: 'Привет! (^ω^)ノ'
-FAST_MESSAGE_GO: 'Гоу ┌( ಠ_ಠ)┘'
-FAST_MESSAGE_SLEEP: 'Засыпаю (－ω－) zzZ'
-FAST_MESSAGE_GOODBYE: 'Пока ╰(╯︵╰,)'
-FAST_MESSAGE_WHY: 'Чее? ＼(〇_ｏ)／'
-FAST_MESSAGE_CAPITULATE: 'Сдаюсь (×_×)尸'
-FAST_MESSAGE_MAJOR: 'Мажор $ (ಠ_ಠ) $'
-FAST_MESSAGE_SAD: 'Грущу (╯︵╰,)'
-FAST_MESSAGE_GO_AWAY: 'Пошел вон ( ╯°□°)╯ ┻━━┻'
-FAST_MESSAGE_EATING: 'Кушаю ( ˘▽˘)っ♨'
-FAST_MESSAGE_LAGS: 'Лагает (ノ°益°)ノ'
-FAST_MESSAGE_ACCESSIBLY: 'Ясно ┐(︶▽︶)┌'
-FAST_MESSAGE_DONT_STUPID: 'Не тупи (; -_-)'
-FAST_MESSAGE_NICELY: 'Мило (＾• ω •＾)'
-FAST_MESSAGE_OFFENSIVELY: 'Обидно (个_个)'
-FAST_MESSAGE_KILLED: 'Убит (ﾒ￣▽￣)︻┳═一'
-FAST_MESSAGE_DANCING: 'Танцую ┌(^^)┘'
-FAST_MESSAGE_LOVE: 'Люблю ( ˘⌣˘)♡'
-FAST_MESSAGE_MUSIC: 'Слушаю музыку (￣▽￣)/♫¸¸♪¯'
-FAST_MESSAGE_GIVE_RESOURCES: 'Дай ресов 凸◟(º o º )'
-
 SETTINGS_LORE:
   - '§7Персональні налаштування:'
   - ' §8▪ §7Політ: %s'
