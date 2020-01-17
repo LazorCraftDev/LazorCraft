@@ -5,25 +5,6 @@ LANGUAGE_ERROR: '§cError, this language has already been selected!'
 LANGUAGE_SELECTED: '§aSelected'
 LANGUAGE_CLICK_TO_CHANGE: '§e▸ Click to change language'
 
-JOIN_TO_LOBBY: ' §a▸ §r%s §6has joined to the server'
-
-JOIN_MESSAGE_CHRISTMAS_1: ' §a▸ §r%s §7зашел и слепил снеговика'
-JOIN_MESSAGE_CHRISTMAS_2: ' §a▸ §r%s §7пришёл поиграть с вами'
-JOIN_MESSAGE_CHRISTMAS_3: ' §a▸ §r%s §7принёс мешок с конфетами'
-JOIN_MESSAGE_CHRISTMAS_4: ' §a▸ §r%s §7проскальзывает на сервер'
-
-JOIN_MESSAGE_NORMAL_1: ' §a▸ §6Эй, друзья §r%s §6уже здесь!'
-JOIN_MESSAGE_NORMAL_2: ' §a▸ §r%s §6подключился. Меня могут похитить?'
-JOIN_MESSAGE_NORMAL_3: ' §a▸ §r%s §6заскочил на сервер. Кенгуру!!'
-JOIN_MESSAGE_NORMAL_4: ' §a▸ §r%s §6- на шаг впереди!'
-JOIN_MESSAGE_NORMAL_5: ' §a▸ §r%s §6здесь, как и было предсказано'
-JOIN_MESSAGE_NORMAL_6: ' §a▸ §r%s §6Тут это, админ зашел <3'
-JOIN_MESSAGE_NORMAL_7: ' §a▸ §r%s §6Ас-саляму влейкум!'
-JOIN_MESSAGE_NORMAL_8: ' §a▸ §r%s §6Камеру вырубай!'
-JOIN_MESSAGE_NORMAL_9: ' §a▸ §r%s §6Читы офф!'
-JOIN_MESSAGE_NORMAL_10: ' §a▸ §r%s §6Ну типа, привет!'
-JOIN_MESSAGE_NORMAL_11: ' §a▸ §r%s §6"ХА" - и вовсе я не смеюсь!'
-
 PREFIX_SELECTED: '§aPrefix selected'
 PREFIX_SUCCESSFULLY: '§fYour prefix has been successfully changed to %s'
 PREFIX_RESET: '§fYour prefix is reset'
@@ -96,7 +77,7 @@ SKYWARS_ITEM_LORE:
 
 PROFILE_ITEM: '§bGeneral information'
 
-#Имена названий гуи
+#Менюшки
 PROFILE_GUI: 'Profile'
 PROFILE_GUI_OTHER: 'Profile ▸ %s'
 
