@@ -1,3 +1,7 @@
+FIND_RESULT: '§fPlayer %s §fnow at the server §c%s'
+
+PLAYER_NOT_FOUND: '§cError, player %s not found'
+
 STAFF_LIST: 
  - '§6StarAPI §8| §fThere are §a%s §f%s on the server'
  - ' §a◾ §fAdministrators: %s'

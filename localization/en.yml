@@ -63,8 +63,6 @@ NO_PERMS_GROUP_NEW: '§fError, you do not have permission to use command §c%c§
 LOBBY_PROFILE_ITEM: '§eProfile of §r%s'
 LOBBY_PROFILE_ITEM_LORE:
   - '§7Helpful information'
-LOBBY_SELECTOR_ITEM: '§eВыбор режима'
-LOBBY_LSELECTOR_ITEM: '§eВыбор лобби'
 
 SKYWARS_ITEM_NAME: '§aSkyWars'
 SKYWARS_ITEM_LORE:
@@ -97,14 +95,6 @@ BACK_LORE: '§7Click to return'
 #Шняги
 FLY: 'Fly'
 GLOWING: 'Glowing'
-
-#Скорборд
-BOARD_GROUP: ' §fStatus: %s'
-BOARD_MONEY: ' §fBalance: §6%s'
-BOARD_LEVEL: ' §fLevel: §d%s'
-BOARD_EXPERIENCE: ' §fExperience: §3%t§f/§b%n'
-BOARD_TOTAL_ONLINE: ' §fTotal online: §a%s'
-BOARD_SITE: '§ewww.quardexmc.net'
 
 #StarLevels
 STARLEVELS_LEVEL_SET: '§fИгроку %s §fустановлен %l §fуровень'
