@@ -173,6 +173,11 @@ DIAMOND_ITEM_LORE:
   - ''
   - ' §8▪ §fПреффикс §b[DIAMOND]'
 
+EMERALD_ITEM_NAME: '§aEMERALD'
+EMERALD_ITEM_LORE: 
+  - ''
+  - ' §8▪ §fПреффикс §a[EMERALD]'
+
 
 #Alternate
 ALTERNATE_TIME_SET: '§fУстановлено время - §a%s'
