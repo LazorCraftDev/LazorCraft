@@ -22,6 +22,16 @@ JOIN_MESSAGE_NORMAL_2: ' §a▸ §r%s §6подключился. Меня мог
 JOIN_MESSAGE_NORMAL_3: ' §a▸ §r%s §6заскочил на сервер. Кенгуру!!'
 JOIN_MESSAGE_NORMAL_4: ' §a▸ §r%s §6- на шаг впереди!'
 JOIN_MESSAGE_NORMAL_5: ' §a▸ §r%s §6здесь, как и было предсказано'
+JOIN_MESSAGE_NORMAL_6: ' §a▸ §r%s §6прямиком из космоса. Осторожно, горячо!'
+JOIN_MESSAGE_NORMAL_7: ' §a▸ §6Привет, а не §r%s §6ли вы ищите?'
+JOIN_MESSAGE_NORMAL_8: ' §a▸ §6А вот и любимец публики - §r%s§6!'
+JOIN_MESSAGE_NORMAL_9: ' §a▸ §6Свет, камера, §r%s§6!'
+JOIN_MESSAGE_NORMAL_10: ' §a▸ §r%s §6конечно, тебя никто не заметит...'
+JOIN_MESSAGE_NORMAL_11: ' §a▸ §r%s §6тук, тук, можно войти?'
+JOIN_MESSAGE_NORMAL_12: ' §a▸ §r%s §6выделил время для нас. Поприветствуем!'
+JOIN_MESSAGE_NORMAL_13: ' §a▸ §r%s §6наконец-то вступил в наши ряды!'
+JOIN_MESSAGE_NORMAL_14: ' §a▸ §7Это птица? Это самолёт? Это §r%s§6!'
+
 JOIN_MESSAGE_NORMAL_BOSS: ' §a▸ §r%s §6подключился. Наши молитвы были услышаны!'
 
 PREFIX_SELECTED: '§aПрефикс выбран'
