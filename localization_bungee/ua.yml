@@ -11,3 +11,9 @@ STAFF_LIST:
  - ' §a◾ §fАдміністратори: %s'
  - ' §a◾ §fМодератори: %s'
 STAFF_LIST_NOT_FOUND: '§8Нікого немає'
+
+ERROR_COMMAND: '§cПомилка, запис %s' 
+
+PING: '§fВаш пінг §a%s §fms'
+
+LIST: '§fОнлайн проекту §a%s §f%s'
