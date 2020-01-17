@@ -1,2 +1,2 @@
-# LazorCraft (Босс гей)
+# LazorCraft
 Здесь лежит локализация сервера LazorCraft

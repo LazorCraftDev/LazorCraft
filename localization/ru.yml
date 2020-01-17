@@ -196,6 +196,12 @@ GOLD_ITEM_LORE:
   - ' §8▪ §fСообщение при входе'
   - ' §8▪ §fДоступен чат донатеров §f- /dc'
 
+DIAMOND_ITEM_NAME: '§bDIAMOND'
+DIAMOND_ITEM_LORE:
+  - ''
+  - ' §8▪ §fПреффикс §b[DIAMOND]'
+
+
 #Alternate
 ALTERNATE_TIME_SET: '§fУстановлено время - §a%s'
 
