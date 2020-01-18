@@ -240,3 +240,15 @@ LIST_EMPTY: '§8Никого нет'
 #MiniGames
 JOIN_GAMER_ARENA: '%s §fприсоединился к игре (§a%s§f/§a%s§f)'
 QUIT_GAMER_ARENA: '%s §fпокинул игру (§c%s§f/§a%s§f)'
+
+BEDWARS_COMMANDS:
+  - ' §7/bw setspawn Lobby §f- установить точку Лобби'
+  - ' §7/bw setspawn Red §f- установить точку Красных'
+  - ' §7/bw setspawn Blue §f- установить точку Синих'
+  - ' §7/bw setspawn Green §f- установить точку Зеленых'
+  - ' §7/bw setspawn Yellow §f- установить точку Желтых'
+  - ' §7/bw setitem Brick §f- добавить точку спавна Бронзы'
+  - ' §7/bw setitem Iron §f- добавить точку спавна Железа'
+  - ' §7/bw setitem Gold §f- добавить точку спавна Золота'
+  - ''
+  - '§8▪ §fDeveloper of §c[ADMIN] SenpaiBae'
