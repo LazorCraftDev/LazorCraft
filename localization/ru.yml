@@ -79,8 +79,8 @@ STATISTIC_MAIN_LORE:
   - '§7'
   - '§e▸ Открыть меню статистики'
 
-CLICK_TO_ENABLED: '§e▸ Нажмите, чтобы включить'
-CLICK_TO_DISABLED: '§e▸ Нажмите, чтобы отключить'
+CLICK_TO_ENABLED: '§7Нажмите, чтобы включить'
+CLICK_TO_DISABLED: '§7Нажмите, чтобы отключить'
 CLICK_TO_OPEN: '§e▸ Открыть меню %s'
 CLICK_TO_CONNECT: '§e▸ Нажмите, чтобы подключиться'
 
