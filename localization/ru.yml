@@ -163,22 +163,26 @@ INFO_DONATE:
   - '§ewww.lazorcraft.ru'
 
 #DonateGUI
-GOLD_ITEM_NAME: '§eGOLD'
+GOLD_ITEM_NAME: '§bПривилегия §eGOLD'
 GOLD_ITEM_LORE: 
   - ''
-  - ' §8▪ §fПреффикс §e[GOLD]'
-  - ' §8▪ §fСообщение при входе'
-  - ' §8▪ §fДоступен чат донатеров §f- /dc'
+  - ' §8▪ §7Преффикс §e[GOLD]'
+  - ' §8▪ §7Сообщение при входе'
+  - ' §8▪ §7Доступен чат донатеров §f- /dc'
 
-DIAMOND_ITEM_NAME: '§bDIAMOND'
+DIAMOND_ITEM_NAME: '§bПривилегия §bDIAMOND'
 DIAMOND_ITEM_LORE:
   - ''
-  - ' §8▪ §fПреффикс §b[DIAMOND]'
+  - ' §8▪ §7Преффикс §b[DIAMOND]'
+  - ' §8▪ §7Сообщение при входе'
+  - ' §8▪ §7Доступен чат донатеров §f- /dc'
 
-EMERALD_ITEM_NAME: '§aEMERALD'
+EMERALD_ITEM_NAME: '§bПривилегия §aEMERALD'
 EMERALD_ITEM_LORE: 
   - ''
-  - ' §8▪ §fПреффикс §a[EMERALD]'
+  - ' §8▪ §7Преффикс §a[EMERALD]'
+  - ' §8▪ §7Сообщение при входе'
+  - ' §8▪ §7Доступен чат донатеров §f- /dc'
 
 
 #Alternate
