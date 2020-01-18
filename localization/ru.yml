@@ -35,7 +35,8 @@ JOIN_MESSAGE_NORMAL_14: ' §a▸ §7Это птица? Это самолёт? Э
 JOIN_MESSAGE_NORMAL_BOSS: ' §a▸ §r%s §6подключился. Наши молитвы были услышаны!'
 
 PREFIX_SELECTED: '§aПрефикс выбран'
-PREFIX_SUCCESSFULLY: '§fВаш префикс успешно изменен на %s'
+PREFIX_CHANGE: '§fВаш префикс успешно изменен на %s'
+PREFIX_ALREADY_SELECTED: '§cОшибка, данный префикс уже выбран!'
 PREFIX_RESET: '§fВаш префикс сброшен'
 
 JOIN_MESSAGE_SELECTED : '§aСообщение выбрано'
@@ -83,6 +84,7 @@ CLICK_TO_ENABLED: '§7Нажмите, чтобы включить'
 CLICK_TO_DISABLED: '§7Нажмите, чтобы отключить'
 CLICK_TO_OPEN: '§e▸ Открыть меню %s'
 CLICK_TO_CONNECT: '§e▸ Нажмите, чтобы подключиться'
+CLICK_TO_SELECTED: '§e▸ Нажмите, чтобы выбрать'
 
 NOT_AVAILABLE: '§cНедоступно!'
 NOT_AVAILABLE_2: '§7Доступно от %s §7и выше'

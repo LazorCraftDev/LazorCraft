@@ -11,7 +11,8 @@ CRASH_ERROR: '§cError, you cannot crash a player’s client %s'
 CRASH_ERROR_YOU: '§cError, you can''t crash yourself'
 
 PREFIX_SELECTED: '§aPrefix selected'
-PREFIX_SUCCESSFULLY: '§fYour prefix has been successfully changed to %s'
+PREFIX_CHANGE: '§fYour prefix has been successfully changed to %s'
+PREFIX_ALREADY_SELECTED: '§cError, this prefix is already selected!'
 PREFIX_RESET: '§fYour prefix is reset'
 
 JOIN_MESSAGE_SELECTED : '§aMessage selected'
@@ -42,6 +43,7 @@ CLICK_TO_ENABLED: '§7Click to enable'
 CLICK_TO_DISABLED: '§7Click to disable'
 CLICK_TO_OPEN: '§e▸ Open the %s menu'
 CLICK_TO_CONNECT: '§e▸ Click to join'
+CLICK_TO_SELECTED: '§e▸ Click to select'
 
 SETTINGS_CLICK_TO_ENABLED: '§7Click to enable'
 SETTINGS_CLICK_TO_DISABLED: '§7Click to disable'
