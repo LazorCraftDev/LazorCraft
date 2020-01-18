@@ -38,17 +38,16 @@ SETTINGS_MAIN_LORE_SHOW_HIDE: ' §8▪ §7Hide player waiting: %s'
 GROUP_CHANGE: '§fYour group has been changed to %s'
 GROUP_CHANGE_TO: '§fPlayer %s§f group set to %m'
   
-CLICK_TO_ENABLED: '§e▸ Click to enable'
-CLICK_TO_DISABLED: '§e▸ Click to disable'
+CLICK_TO_ENABLED: '§7Click to enable'
+CLICK_TO_DISABLED: '§7Click to disable'
+CLICK_TO_OPEN: '§e▸ Open the %s menu'
+CLICK_TO_CONNECT: '§e▸ Click to join'
 
 SETTINGS_CLICK_TO_ENABLED: '§7Click to enable'
 SETTINGS_CLICK_TO_DISABLED: '§7Click to disable'
 
 NOT_AVAILABLE: '§cUnavailable!'
 NOT_AVAILABLE_2: '§7Available from %s §7or higher'
-
-CLICK_TO_OPEN: '§e▸ Open the %s menu'
-CLICK_TO_SEND: '§e▸ Click to send message'
 
 PLAYER_NOT_FOUND: '§cError, player %s not found'
 
