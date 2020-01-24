@@ -10,15 +10,9 @@ STAFF_LIST:
  - '§6StarAPI §8| §fНа сервері §a%s §f%s'
  - ' §a◾ §fАдміністратори: %s'
  - ' §a◾ §fМодератори: %s'
-STAFF_LIST_NOT_FOUND: '§8Нікого немає'
+STAFF_NOT_FOUND: '§8Нікого немає'
 
 ERROR_COMMAND: '§cПомилка, запис %s' 
-
 PING: '§fВаш пінг §a%s §fms'
-
+PING_OTHER: '§fУ гравця %s §fпінг §a%s §fms'
 LIST: '§fОнлайн проекту §a%s §f%s'
-
-PLUGIN_INFO:
-  - '§fІнформація про плагін:'
-  - ' §8▪ §fПлагін: §a%n %v'
-  - ' §8▪ §fРозробники: %d1 §fи %d2'

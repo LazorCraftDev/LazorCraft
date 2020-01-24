@@ -8,17 +8,11 @@ YOU_CANT_KICK: '§cError, you cannot kick this player.'
 
 STAFF_LIST: 
  - '§6StarAPI §8| §fThere are §a%s §f%s on the server'
- - ' §a◾ §fAdministrators: %s'
- - ' §a◾ §fModerators: %s'
+ - ' §a▪ §fAdministrators: %s'
+ - ' §a▪ §fModerators: %s'
 STAFF_NOT_FOUND: '§8There is not anyone'
 
 ERROR_COMMAND: '§cError, write %s' 
-
 PING: '§fYour ping §a%s §fms'
-
+PING_OTHER: '§fPlayer %s §fping §a%s §fms'
 LIST: '§fOnline project §a%s §f%s'
-
-PLUGIN_INFO:
-  - '§fInformation of plugin:'
-  - ' §8▪ §fPlugin: §a%n %v'
-  - ' §8▪ §fDevelopers: %d1 §fand %d1'
