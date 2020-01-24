@@ -178,3 +178,13 @@ LIST_EMPTY: '§8There is not anyone'
 #MiniGames
 JOIN_GAMER_ARENA: '%s §fjoined the game (§a%s§f/§a%s§f)'
 QUIT_GAMER_ARENA: '%s §fleft the game (§c%s§f/§a%s§f)'
+
+  - '§7List of privileges:'
+  - ' §8▪ §e§lGOLD §f- 15 Rubles'
+  - ' §8▪ §b§lDIAMOND §f- 50 Rubles'
+  - ' §8▪ §a§lEMERALD §f- 100 Rubles'
+  - ' §8▪ §c§lMAGMA §f- 150 Rubles'
+  - ' §8▪ §6§lSHULKER §f- 300 Rubles'
+  - ''
+  - '§7A detailed description of the privileges is available'
+  - '§7Found in section §fProfile ▸ Privileges'
