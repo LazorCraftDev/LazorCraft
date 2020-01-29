@@ -5,6 +5,9 @@ LANGUAGE_ERROR: '§cОшибка, этот язык уже выбран!'
 LANGUAGE_SELECTED: '§aВыбран'
 LANGUAGE_CLICK_TO_CHANGE: '§e▸ Нажмите, чтобы сменить язык'
 
+MESSAGE_NOT_FOUND: '§cОшибка, сообщение \"%s\" не найдено'
+MESSAGE_NOT_FOUND_2: '§7Пожалуйста, сообщение администрации проекта.'
+
 CRASH: '§fВы крашнули клиент игрока %s'
 CRASH_FORMAT: '/crash <ник игрока>'
 CRASH_ERROR: '§cОшибка, Вы не можете крашнуть клиент игрока %s'
