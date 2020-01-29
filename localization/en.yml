@@ -122,6 +122,42 @@ INFO_DONATE:
   - ''
   - '§7Privileges are purchase on the site:'
   - '§ewww.lazorcraft.ru'
+  
+#DonateGUI
+GOLD_ITEM_NAME: '§bПривилегия §eGOLD'
+GOLD_ITEM_LORE: 
+  - ''
+  - ' §8▪ §7Преффикс §e§lGOLD'
+  - ' §8▪ §7Сообщение при входе'
+  - ' §8▪ §7Доступен чат донатеров §f- /dc'
+
+DIAMOND_ITEM_NAME: '§bПривилегия §bDIAMOND'
+DIAMOND_ITEM_LORE:
+  - ''
+  - ' §8▪ §7Преффикс §b§lDIAMOND'
+  - ' §8▪ §7Сообщение при входе'
+  - ' §8▪ §7Доступен чат донатеров §f- /dc'
+
+EMERALD_ITEM_NAME: '§bПривилегия §aEMERALD'
+EMERALD_ITEM_LORE: 
+  - ''
+  - ' §8▪ §7Преффикс §a§lEMERALD'
+  - ' §8▪ §7Сообщение при входе'
+  - ' §8▪ §7Доступен чат донатеров §f- /dc'
+
+MAGMA_ITEM_NAME: '§bПривилегия §cMAGMA'
+MAGMA_ITEM_LORE:
+  - ''
+  - ' §8▪ §7Преффикс §c§lMAGMA'
+  - ' §8▪ §7Сообщение при входе'
+  - ' §8▪ §7Доступен чат донатеров §f- /dc' 
+
+SHULKER_ITEM_NAME: '§bПривилегия §6SHULKER'
+SHULKER_ITEM_LORE: 
+  - ''
+  - ' §8▪ §7Преффикс §6§lSHULKER'
+  - ' §8▪ §7Сообщение при входе'
+  - ' §8▪ §7Доступен чат донатеров §f- /dc'
 
 #Alternate
 ALTERNATE_TIME_SET: '§fSet time - §a%s'
