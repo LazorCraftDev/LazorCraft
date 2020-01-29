@@ -5,7 +5,7 @@ LANGUAGE_ERROR: '§cПомилка, ця мова вже обрана!'
 LANGUAGE_SELECTED: '§aОбрано'
 LANGUAGE_CLICK_TO_CHANGE: '§e▸ Натисніть, щоб змінити мову'
 
-MESSAGE_NOT_FOUND: '§cПомилка, повідомлення "%s" не знайдено'
+MESSAGE_NOT_FOUND: '§cПомилка, повідомлення %s не знайдено'
 MESSAGE_NOT_FOUND_2: '§7Будь ласка, повідомте адміністрацію проекту.'
 
 CRASH: '§fВи зламали клієнт гравця %s'
