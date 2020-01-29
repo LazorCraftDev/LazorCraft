@@ -5,7 +5,7 @@ LANGUAGE_ERROR: '§cError, this language has already been selected!'
 LANGUAGE_SELECTED: '§aSelected'
 LANGUAGE_CLICK_TO_CHANGE: '§e▸ Click to change language'
 
-MESSAGE_NOT_FOUND: '§cError, message "%s" not found'
+MESSAGE_NOT_FOUND: '§cError, message %s not found'
 MESSAGE_NOT_FOUND_2: '§7Please inform the project administration.'
 
 CRASH: '§fYou crashed a player’s client %s'
