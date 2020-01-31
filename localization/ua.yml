@@ -1,234 +1,145 @@
 LANGUAGE_CHANGE:
-  - '§fВаша мова змінена на §a%s'
-  - '§fНа даний момент зміна мови працює тільки в головному лоббі!'
-LANGUAGE_ERROR: '§cПомилка, ця мова вже обрана!'
-LANGUAGE_SELECTED: '§aОбрано'
-LANGUAGE_CLICK_TO_CHANGE: '§e▸ Натисніть, щоб змінити мову'
+  - '§cNot found'
+LANGUAGE_ERROR: '§cNot found'
+LANGUAGE_SELECTED: '§cNot found'
+LANGUAGE_CLICK_TO_CHANGE: '§cNot found'
 
-MESSAGE_NOT_FOUND: '§cПомилка, повідомлення %s не знайдено'
-MESSAGE_NOT_FOUND_2: '§7Будь ласка, повідомте адміністрацію проекту.'
+MESSAGE_NOT_FOUND: '§cNot found'
+MESSAGE_NOT_FOUND_2: '§cNot found'
 
-CRASH: '§fВи зламали клієнт гравця %s'
-CRASH_FORMAT: '/crash <нік гравця>'
-CRASH_ERROR: '§cПомилка, Ви не можете зламати клієнт гравця %s'
-CRASH_ERROR_YOU: '§cПомилка, ти не можеш сам себе зламати!'
+CRASH: '§cNot found'
+CRASH_FORMAT: '§cNot found'
+CRASH_ERROR: '§cNot found'
+CRASH_ERROR_YOU: '§cNot found'
 
-PREFIX_SELECTED: '§aПрефікс обраний'
-PREFIX_CHANGE: '§fВаш префікс успішно змінений на %s'
-PREFIX_ALREADY_SELECTED: '§cПомилка, даний префікс вже обраний!'
-PREFIX_RESET: '§fВаш префікс скинутий'
+JOIN_TO_LOBBY: '§cNot found'
 
-JOIN_MESSAGE_SELECTED : '§aПовідомлення вибрано'
-JOIN_MESSAGE_NOT_SELECTED: '§e▸ Натисніть, щоб вибрати'
-JOIN_MESSAGE_NOT_AVAILABLE: '§cДане повідомлення вам не доступно'
-JOIN_MESSAGE_ALREADY_ENABLE: '§fПовідомлення під номером §a#%s §fвже активовано'
-JOIN_MESSAGE_ENABLE: '§fПовідомлення під номером §a#%s §fактивовано'
-JOIN_MESSAGE_DISABLE: '§fПовідомлення під номером §a#%s §fдеактивовано'
+JOIN_MESSAGE_NORMAL_1: ' §a▸ §6Эй, друзья §r%s §6уже здесь!'
+JOIN_MESSAGE_NORMAL_2: ' §a▸ §r%s §6подключился. Меня могут похитить?'
+JOIN_MESSAGE_NORMAL_3: ' §a▸ §r%s §6заскочил на сервер. Кенгуру!!'
+JOIN_MESSAGE_NORMAL_4: ' §a▸ §r%s §6- на шаг впереди!'
+JOIN_MESSAGE_NORMAL_5: ' §a▸ §r%s §6здесь, как и было предсказано'
+JOIN_MESSAGE_NORMAL_6: ' §a▸ §r%s §6прямиком из космоса. Осторожно, горячо!'
+JOIN_MESSAGE_NORMAL_7: ' §a▸ §6Привет, а не §r%s §6ли вы ищите?'
+JOIN_MESSAGE_NORMAL_8: ' §a▸ §6А вот и любимец публики - §r%s§6!'
+JOIN_MESSAGE_NORMAL_9: ' §a▸ §6Свет, камера, §r%s§6!'
+JOIN_MESSAGE_NORMAL_10: ' §a▸ §r%s §6конечно, тебя никто не заметит...'
+JOIN_MESSAGE_NORMAL_11: ' §a▸ §r%s §6тук, тук, можно войти?'
+JOIN_MESSAGE_NORMAL_12: ' §a▸ §r%s §6выделил время для нас. Поприветствуем!'
+JOIN_MESSAGE_NORMAL_13: ' §a▸ §r%s §6наконец-то вступил в наши ряды!'
+JOIN_MESSAGE_NORMAL_14: ' §a▸ §7Это птица? Это самолёт? Это §r%s§6!'
+
+PREFIX_SELECTED: '§cNot found'
+PREFIX_CHANGE: '§cNot found'
+PREFIX_ALREADY_SELECTED: '§cNot found'
+PREFIX_RESET: '§cNot found'
+
+JOIN_MESSAGE_SELECTED : '§cNot found'
+JOIN_MESSAGE_NOT_SELECTED: '§cNot found'
+JOIN_MESSAGE_NOT_AVAILABLE: '§cNot found'
+JOIN_MESSAGE_ALREADY_ENABLE: '§cNot found'
+JOIN_MESSAGE_ENABLE: '§cNot found'
+JOIN_MESSAGE_DISABLE: '§cNot found'
+JOIN_MESSAGE_LORE: '§cNot found'
+JOIN_MESSAGE_LORE_2: '§cNot found'
+JOIN_MESSAGE_LORE_3: '§cNot found'
 JOIN_MESSAGE_MAIN_LORE:
-  - '§7Встановіть кастомне повідомлення'
-  - '§7вашого входу на сервер'
+  - '§cNot found'
+  - '§cNot found'
   - ''
-  - '§7Доступно для §a§lEMERALD §7і вище'
+  - '§cNot found'
   - ''
-  - '§e▸ Відкрити меню повідомлень при вході'
-JOIN_MESSAGE_RIGHTCLICK_HELP: '§8Ви також можете відключити це повідомлення,'
-JOIN_MESSAGE_RIGHTCLICK_HELP_2: '§8просто натисніть ПКМ по повідомленню'
+  - '§cNot found'
+JOIN_MESSAGE_RIGHTCLICK_HELP: '§cNot found'
+JOIN_MESSAGE_RIGHTCLICK_HELP_2: '§cNot found'
 
 SETTINGS_LORE:
-  - '§7Персональні налаштування:'
-  - ' §8▪ §7Політ: %s'
-  - ' §8▪ §7Підсвічування в лоббі: %s'
-  - ' §8▪ §7Приховування гравців: %s'
+  - '§cNot found'
+  - ' §cNot found: %s'
+  - ' §cNot found: %s'
+  - ' §cNot found: %s'
 
-SETTINGS_MAIN_LORE: '§7Персональные настройки:'
-SETTINGS_MAIN_LORE_FLY: ' §8▪ §7Полёт: %s'
-SETTINGS_MAIN_LORE_GLOWING: ' §8▪ §7Подсветка в лобби: %s'
-SETTINGS_MAIN_LORE_SHOW_HIDE: ' §8▪ §7Скрытие игроков: %s'
-
-GROUP_CHANGE: '§fВашу привілегію змінено на %s'
-GROUP_CHANGE_TO: '§fГравцю %s §fбула встановлена привілегія %m'
+GROUP_CHANGE: '§cNot found'
+GROUP_CHANGE_TO: '§cNot found'
 
 DONATE_MAIN_LORE: 
-  - '§7Детальна інформація про можливості'
-  - '§7привілегій і їх покупки'
+  - '§cNot found'
+  - '§cNot found'
   - ''
-  - '§e▸ Відкрити меню привілегій'
+  - '§cNot found'
 
-STATISTIC_MAIN_LORE:
-  - '§7Игровая статистика со всех режимов и подрежимов'
-  - '§7Меню статистика можно открыть'
-  - '§7как и здесь, так и командой §c/stats'
-  - '§7'
-  - '§e▸ Открыть меню статистики'
-  
-CLICK_TO_ENABLED: '§7Натисніть, щоб включити'
-CLICK_TO_DISABLED: '§7Натисніть, щоб відключити'
-CLICK_TO_OPEN: '§e▸ Відкрити меню %s'
-CLICK_TO_CONNECT: '§e▸ Натисніть, щоб підключитися'
-CLICK_TO_SELECTED: '§e▸ Натисніть, щоб вибрати'
+CLICK_TO_ENABLED: '§cNot found'
+CLICK_TO_DISABLED: '§cNot found'
+CLICK_TO_OPEN: '§cNot found'
+CLICK_TO_CONNECT: '§cNot found'
+CLICK_TO_SELECTED: '§cNot found'
 
-NOT_AVAILABLE: '§cНедоступно!'
-NOT_AVAILABLE_2: '§7Доступно від %s §7і вище'
+NOT_AVAILABLE: '§cNot found'
+NOT_AVAILABLE_2: '§cNot found'
 
-PLAYER_NOT_FOUND: '§cПомилка, гравець %s не знайдений'
+PLAYER_NOT_FOUND: '§cNot found'
 
-ERROR_COMMAND: '§cПомилка, пишіть %s'
-SUB_COMMAND: '§e▸ Підкоманди для %s:'
+ERROR_COMMAND: '§cNot found'
+SUB_COMMAND: '§cNot found'
 
-NO_PERMS: '§cУ вас немає прав'
-NO_PERMS_GROUP: '§cУ вас немає прав, купіть %s §cабо вище'
-NO_PERMS_GROUP_NEW: '§fПомилка, у вас недостатньо прав для використання команди §c%c§f. Придбайте привілегію %s §fабо вище'
+NO_PERMS: '§cNot found'
+NO_PERMS_GROUP: '§cNot found'
+NO_PERMS_GROUP_NEW: '§cNot found'
 
 #Предметы в лобби
-LOBBY_PROFILE_ITEM: '§eПрофіль гравця §r%s'
+LOBBY_PROFILE_ITEM: '§cNot found'
 LOBBY_PROFILE_ITEM_LORE: 
-  - '§7Корисна інформація'
-LOBBY_SELECTOR_ITEM: '§eВыбор режима'
-LOBBY_LSELECTOR_ITEM: '§eВыбор лобби'
-
-SKYWARS_ITEM_NAME: '§aSkyWars'
-SKYWARS_ITEM_LORE:
-  - '§8Битви на островах'
-  - ''
-  - '§7Ви з''являєтеся на острові'
-  - '§7і ваша ціль убити всіх'
-  - '§7гравців і перемогти!'
-  - '§7У вас немає права на помилку,'
-  - '§71 крок і ви летите вниз.'
-  - ''
-  - '§8На режиме играет %s %s'
-  - ''
-  - '§e▸ Натисніть, щоб підключитися'
+  - '§cNot found'
+LOBBY_SELECTOR_ITEM: '§cNot found'
+LOBBY_LSELECTOR_ITEM: '§cNot found'
 
 #Имена названий гуи
-PROFILE_GUI: 'Профіль'
-PROFILE_GUI_OTHER: 'Профіль ▸ %s'
+PROFILE_GUI: '§cNot found'
+PROFILE_GUI_OTHER: '§cNot found'
 
 #Вкл/Выкл
-ENABLED: '§aВключено'
-DISABLED: '§cВідключено'
+ENABLED: '§cNot found'
+DISABLED: '§cNot found'
 
 #Предметы
-BACK: '§cНазад'
-BACK_LORE: '§7Натисніть, щоб повернутися на крок назад'
+BACK: '§cNot found' 
+BACK_LORE: '§cNot found'
 
 #Шняги
-FLY: 'Політ'
-GLOWING: 'Підсвічування'
+FLY: '§cNot found'
+GLOWING: '§cNot found'
 
 #StarLevels
-STARLEVELS_LEVEL_SET: '§fГравцю %s §fустановлено %l §fрівень'
+STARLEVELS_LEVEL_SET: '§cNot found'
 
 #StarEconomy
-MONEY_ADD: '§fГравцю %s §fдобавлено §a%m §fмонет'
-MONEY_SET: '§fГравцю %s §fустановлено §a%m §fмонет'
-BALANCE: '§fНа вашому обліковому записі §a%m §f'
-
-#Вскоре MessagesAPI
-MY_ONLINE_TIME: '§fЧасу проведено на сервері - §a%t'
-PLAYER_ONLINE_TIME: '§fГравець %s §fпровів на сервері - §a%t'
+MONEY_ADD: '§cNot found'
+MONEY_SET: '§cNot found'
+BALANCE: '§cNot found'
 
 INFO_DONATE:
-  - '§7Список привілегій:'
-  - ' §8▪ §e§lGOLD §f- 15 Рублів'
-  - ' §8▪ §b§lDIAMOND §f- 50 Рублів'
-  - ' §8▪ §a§lEMERALD §f- 100 Рублів'
-  - ' §8▪ §c§lMAGMA §f- 150 Рублів'
-  - ' §8▪ §6§lSHULKER §f- 300 Рублів'
-  - ''
-  - '§7Детальний опис привілегії можна'
-  - '§7Знайти в розділі §fПрофіль ▸ Привілегії'
-  - ''
-  - '§7Привілегії купуються на сайті:'
-  - '§ewww.lazorcraft.ru'
+  - '§cNot found'
 
 #DonateGUI
-GOLD_ITEM_NAME: '§bПривилегия §eGOLD'
-GOLD_ITEM_LORE: 
-  - ''
-  - ' §8▪ §7Преффикс §e§lGOLD'
-  - ' §8▪ §7Сообщение при входе'
-  - ' §8▪ §7Доступен чат донатеров §f- /dc'
+GOLD_ITEM_NAME: '§cNot found'
+GOLD_ITEM_LORE: '§cNot found'
 
-DIAMOND_ITEM_NAME: '§bПривилегия §bDIAMOND'
-DIAMOND_ITEM_LORE:
-  - ''
-  - ' §8▪ §7Преффикс §b§lDIAMOND'
-  - ' §8▪ §7Сообщение при входе'
-  - ' §8▪ §7Доступен чат донатеров §f- /dc'
+DIAMOND_ITEM_NAME: '§cNot found'
+DIAMOND_ITEM_LORE: '§cNot found'
 
-EMERALD_ITEM_NAME: '§bПривилегия §aEMERALD'
-EMERALD_ITEM_LORE: 
-  - ''
-  - ' §8▪ §7Преффикс §a§lEMERALD'
-  - ' §8▪ §7Сообщение при входе'
-  - ' §8▪ §7Доступен чат донатеров §f- /dc'
+EMERALD_ITEM_NAME: '§cNot found'
+EMERALD_ITEM_LORE: '§cNot found'
 
-MAGMA_ITEM_NAME: '§bПривилегия §cMAGMA'
-MAGMA_ITEM_LORE:
-  - ''
-  - ' §8▪ §7Преффикс §c§lMAGMA'
-  - ' §8▪ §7Сообщение при входе'
-  - ' §8▪ §7Доступен чат донатеров §f- /dc' 
+MAGMA_ITEM_NAME: '§cNot found'
+MAGMA_ITEM_LORE: '§cNot found'
 
-SHULKER_ITEM_NAME: '§bПривилегия §6SHULKER'
-SHULKER_ITEM_LORE: 
-  - ''
-  - ' §8▪ §7Преффикс §6§lSHULKER'
-  - ' §8▪ §7Сообщение при входе'
-  - ' §8▪ §7Доступен чат донатеров §f- /dc'
-
-#Alternate
-ALTERNATE_TIME_SET: '§fВстановлено час - §a%s'
-
-ALTERNATE_KILL: '§fВи вбили %s'
-ALTERNATE_INVENTORY_TO: '§fВідкриваємо інвентар гравця %s'
-
-ALTERNATE_TP: '§fВи були телепортовані до гравця %s'
-ALTERNATE_TP_TO: '§fГравевь %s §fтелепортований до гравця %t'
-ALTERNATE_TPPOS: '§fТелепортуємо на координати: §a%s'
-ALTERNATE_NUMBER_ERROR: '§cАргументи невірні, ви ввели занадто багато цифр!'
-
-CLEAR_INV: '§fВсі предмети вилучені'
-CLEAR_INV_TO: '§fУ гравця %s §fвидалені всі предмети'
-
-ALTERNATE_GLOWING: '§fРежим підсвічування - %s'
-ALTERNATE_GLOWING_TO: '§fГравцю %s §fрежим підсвічування - - %m'
-
-ALTERNATE_FLYING: '§fРежим польоту - %s'
-ALTERNATE_FLYING_TO: '§fГравцю %s §fрежим польоту - %m'
-
-ALTERNATE_GAMEMODE_CHANGE: '§fВстановлено режим - §a%s'
-ALTERNATE_GAMEMODE_CHANGE_TO: '§fГравцю %s §fвстановлено режим - §a%m'
-
-COMPASS: '§fВаш компас вказує на координати §a%s'
-
-CALL_YOU: '§cПомилка, ви не можете відправити запит самому собі'
-
-HEAL: '§fХП відновлено'
-HEAL_TO: '§fХП відновлено гравцеві %s'
-
-FEED: '§fГолод відновлено'
-FEED_TO: '§fГолод відновлено гравцеві %s'
-
-SURVIVAL: 'Виживання'
-ADVENTURE: 'Пригодницький'
-CREATIVE: 'Креатив'
-SPECTATOR: 'Спостерігач'
-
-ALTERNATE_ITEMDB: '§fПредмет §a%s §f- §e%t'
-ALTERNATE_ITEMDB_ERROR: '§cПомилка, id недійсний!'
-
-ALTERNATE_NEAR: 'Найближчі гравці: %s'
-ALTERNATE_NEAR_NOT_FOUND: 'Найближчих гравців немає'
-
-LIST:
-  - '§6StarAPI §8| §fНа режимі §a%s'
-  - ' §a▪ §fАдміністрація: %a'
-  - ' §a▪ §fДонатери: %d'
-  - ' §a▪ §fГравці: %p'
-LIST_EMPTY: '§8Нікого немає'
+SHULKER_ITEM_NAME: '§cNot found'
+SHULKER_ITEM_LORE: '§cNot found'
 
 #MiniGames
-JOIN_GAMER_ARENA: '%s §fприєднався до гри (§a%s§f/§a%s§f)'
-QUIT_GAMER_ARENA: '%s §fпокинув гру (§c%s§f/§a%s§f)'
+JOIN_GAMER_ARENA: '§cNot found'
+QUIT_GAMER_ARENA: '§cNot found'
+ERROR_START_GAMER_ARENA: '§cNot found'
+START_GAME_ARENA: '§cNot found'
+
+RESTART_ARENA_MSG: '§cNot found'
