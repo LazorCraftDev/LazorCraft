@@ -1,24 +1,18 @@
 LANGUAGE_CHANGE:
-  - '§fВаш язык изменён на §a%s'
-  - '§fНа данный момент смена языка работает только в главном лобби!'
-LANGUAGE_ERROR: '§cОшибка, этот язык уже выбран!'
-LANGUAGE_SELECTED: '§aВыбран'
-LANGUAGE_CLICK_TO_CHANGE: '§e▸ Нажмите, чтобы сменить язык'
+  - '§cNot found'
+LANGUAGE_ERROR: '§cNot found'
+LANGUAGE_SELECTED: '§cNot found'
+LANGUAGE_CLICK_TO_CHANGE: '§cNot found'
 
-MESSAGE_NOT_FOUND: '§cОшибка, сообщение %s не найдено'
-MESSAGE_NOT_FOUND_2: '§7Пожалуйста, сообщение администрации проекта.'
+MESSAGE_NOT_FOUND: '§cNot found'
+MESSAGE_NOT_FOUND_2: '§cNot found'
 
-CRASH: '§fВы крашнули клиент игрока %s'
-CRASH_FORMAT: '/crash <ник игрока>'
-CRASH_ERROR: '§cОшибка, Вы не можете крашнуть клиент игрока %s'
-CRASH_ERROR_YOU: '§cОшибка, ты не можешь сам себя крашнуть'
+CRASH: '§cNot found'
+CRASH_FORMAT: '§cNot found'
+CRASH_ERROR: '§cNot found'
+CRASH_ERROR_YOU: '§cNot found'
 
-JOIN_TO_LOBBY: ' §a▸ §r%s §6зашел на сервер'
-
-JOIN_MESSAGE_CHRISTMAS_1: ' §a▸ §r%s §7зашел и слепил снеговика'
-JOIN_MESSAGE_CHRISTMAS_2: ' §a▸ §r%s §7пришёл поиграть с вами'
-JOIN_MESSAGE_CHRISTMAS_3: ' §a▸ §r%s §7принёс мешок с конфетами'
-JOIN_MESSAGE_CHRISTMAS_4: ' §a▸ §r%s §7проскальзывает на сервер'
+JOIN_TO_LOBBY: '§cNot found'
 
 JOIN_MESSAGE_NORMAL_1: ' §a▸ §6Эй, друзья §r%s §6уже здесь!'
 JOIN_MESSAGE_NORMAL_2: ' §a▸ §r%s §6подключился. Меня могут похитить?'
@@ -35,237 +29,117 @@ JOIN_MESSAGE_NORMAL_12: ' §a▸ §r%s §6выделил время для на�
 JOIN_MESSAGE_NORMAL_13: ' §a▸ §r%s §6наконец-то вступил в наши ряды!'
 JOIN_MESSAGE_NORMAL_14: ' §a▸ §7Это птица? Это самолёт? Это §r%s§6!'
 
-PREFIX_SELECTED: '§aПрефикс выбран'
-PREFIX_CHANGE: '§fВаш префикс успешно изменен на %s'
-PREFIX_ALREADY_SELECTED: '§cОшибка, данный префикс уже выбран!'
-PREFIX_RESET: '§fВаш префикс сброшен'
+PREFIX_SELECTED: '§cNot found'
+PREFIX_CHANGE: '§cNot found'
+PREFIX_ALREADY_SELECTED: '§cNot found'
+PREFIX_RESET: '§cNot found'
 
-JOIN_MESSAGE_SELECTED : '§aСообщение выбрано'
-JOIN_MESSAGE_NOT_SELECTED: '§e▸ Нажмите, чтобы выбрать'
-JOIN_MESSAGE_NOT_AVAILABLE: '§cДанное сообщение вам не доступно'
-JOIN_MESSAGE_ALREADY_ENABLE: '§fСообщение под номером §a#%s §fуже активировано'
-JOIN_MESSAGE_ENABLE: '§fСообщение под номером §a#%s §fактивировано'
-JOIN_MESSAGE_DISABLE: '§fСообщение под номером §c#%s §fдеактивировано'
-JOIN_MESSAGE_LORE: '§7Установите кастомное оповещение'
-JOIN_MESSAGE_LORE_2: '§7для всех игроков о вашем входе на сервер'
-JOIN_MESSAGE_LORE_3: '§7Оповещение для игроков:'
+JOIN_MESSAGE_SELECTED : '§cNot found'
+JOIN_MESSAGE_NOT_SELECTED: '§cNot found'
+JOIN_MESSAGE_NOT_AVAILABLE: '§cNot found'
+JOIN_MESSAGE_ALREADY_ENABLE: '§cNot found'
+JOIN_MESSAGE_ENABLE: '§cNot found'
+JOIN_MESSAGE_DISABLE: '§cNot found'
+JOIN_MESSAGE_LORE: '§cNot found'
+JOIN_MESSAGE_LORE_2: '§cNot found'
+JOIN_MESSAGE_LORE_3: '§cNot found'
 JOIN_MESSAGE_MAIN_LORE:
-  - '§7Установить кастомное сообщение'
-  - '§7вашего входа на сервер'
+  - '§cNot found'
+  - '§cNot found'
   - ''
-  - '§7Доступно для §a§lEMERALD §7и выше'
+  - '§cNot found'
   - ''
-  - '§e▸ Открыть меню сообщений при входе'
-JOIN_MESSAGE_RIGHTCLICK_HELP: '§8Вы также можете отключить это сообщение,'
-JOIN_MESSAGE_RIGHTCLICK_HELP_2: '§8просто нажмите ПКМ по сообщению'
+  - '§cNot found'
+JOIN_MESSAGE_RIGHTCLICK_HELP: '§cNot found'
+JOIN_MESSAGE_RIGHTCLICK_HELP_2: '§cNot found'
 
 SETTINGS_LORE:
-  - '§7Персональные настройки:'
-  - ' §8▪ §7Полёт: %s'
-  - ' §8▪ §7Подсветка в лобби: %s'
-  - ' §8▪ §7Скрытие игроков: %s'
+  - '§cNot found'
+  - ' §cNot found: %s'
+  - ' §cNot found: %s'
+  - ' §cNot found: %s'
 
-GROUP_CHANGE: '§fВаша привилегия изменена на %s'
-GROUP_CHANGE_TO: '§fИгроку %s§f была установлена привилегия %m'
+GROUP_CHANGE: '§cNot found'
+GROUP_CHANGE_TO: '§cNot found'
 
 DONATE_MAIN_LORE: 
-  - '§7Подробная информация о возможностях'
-  - '§7привилегий и их покупки'
+  - '§cNot found'
+  - '§cNot found'
   - ''
-  - '§e▸ Открыть меню привилегий'
+  - '§cNot found'
 
-STATISTIC_MAIN_LORE:
-  - '§7Игровая статистика со всех режимов и подрежимов'
-  - '§7Меню статистика можно открыть'
-  - '§7как и здесь, так и командой §c/stats'
-  - '§7'
-  - '§e▸ Открыть меню статистики'
+CLICK_TO_ENABLED: '§cNot found'
+CLICK_TO_DISABLED: '§cNot found'
+CLICK_TO_OPEN: '§cNot found'
+CLICK_TO_CONNECT: '§cNot found'
+CLICK_TO_SELECTED: '§cNot found'
 
-CLICK_TO_ENABLED: '§7Нажмите, чтобы включить'
-CLICK_TO_DISABLED: '§7Нажмите, чтобы отключить'
-CLICK_TO_OPEN: '§e▸ Открыть меню %s'
-CLICK_TO_CONNECT: '§e▸ Нажмите, чтобы подключиться'
-CLICK_TO_SELECTED: '§e▸ Нажмите, чтобы выбрать'
+NOT_AVAILABLE: '§cNot found'
+NOT_AVAILABLE_2: '§cNot found'
 
-NOT_AVAILABLE: '§cНедоступно!'
-NOT_AVAILABLE_2: '§7Доступно от %s §7и выше'
+PLAYER_NOT_FOUND: '§cNot found'
 
-PLAYER_NOT_FOUND: '§cОшибка, игрок %s не найден'
+ERROR_COMMAND: '§cNot found'
+SUB_COMMAND: '§cNot found'
 
-ERROR_COMMAND: '§cОшибка, пишите %s'
-SUB_COMMAND: '§e▸ Подкоманды для %s:'
-
-NO_PERMS: '§cУ вас нет прав'
-NO_PERMS_GROUP: '§cУ вас нет прав, купите %s§c или выше'
-NO_PERMS_GROUP_NEW: '§fОшибка, у вас недостаточно прав для использования команды §c%c§f. Приобретите привилегию %s §fили выше'
+NO_PERMS: '§cNot found'
+NO_PERMS_GROUP: '§cNot found'
+NO_PERMS_GROUP_NEW: '§cNot found'
 
 #Предметы в лобби
-LOBBY_PROFILE_ITEM: '§eПрофиль игрока §r%s'
+LOBBY_PROFILE_ITEM: '§cNot found'
 LOBBY_PROFILE_ITEM_LORE: 
-  - '§7Полезная информация'
-LOBBY_SELECTOR_ITEM: '§eВыбор режима'
-LOBBY_LSELECTOR_ITEM: '§eВыбор лобби'
-
-SKYWARS_ITEM_NAME: '§aSkyWars'
-SKYWARS_ITEM_LORE:
-  - '§8Битвы на островах'
-  - ''
-  - '§7Вы появляетесь на острове'
-  - '§7и ваша цель убить всех'
-  - '§7игроков и победить!'
-  - '§7У вас нет права на ошибку,'
-  - '§71 шаг и вы летите вниз.'
-  - ''
-  - '§8На режиме играет %s %s'
-  - ''
-  - '§e▸ Нажмите, чтобы подключиться'
+  - '§cNot found'
+LOBBY_SELECTOR_ITEM: '§cNot found'
+LOBBY_LSELECTOR_ITEM: '§cNot found'
 
 #Имена названий гуи
-PROFILE_GUI: 'Профиль'
-PROFILE_GUI_OTHER: 'Профиль ▸ %s'
+PROFILE_GUI: '§cNot found'
+PROFILE_GUI_OTHER: '§cNot found'
 
 #Вкл/Выкл
-ENABLED: '§aВключено'
-DISABLED: '§cОтключено'
+ENABLED: '§cNot found'
+DISABLED: '§cNot found'
 
 #Предметы
-BACK: '§cНазад'
-BACK_LORE: '§7Нажмите, чтобы вернуться на шаг назад'
+BACK: '§cNot found' 
+BACK_LORE: '§cNot found'
 
 #Шняги
-FLY: 'Полет'
-GLOWING: 'Подсветка'
+FLY: '§cNot found'
+GLOWING: '§cNot found'
 
 #StarLevels
-STARLEVELS_LEVEL_SET: '§fИгроку %s §fустановлен %l §fуровень'
+STARLEVELS_LEVEL_SET: '§cNot found'
 
 #StarEconomy
-MONEY_ADD: '§fИгроку %s §fдобавлено §a%m §fмонет'
-MONEY_SET: '§fИгроку %s §fустановлено §a%m §fмонет'
-BALANCE: '§fНа вашем аккаунте §a%m §fмонет'
-
-#Вскоре MessagesAPI
-MY_ONLINE_TIME: '§fВремени проведено на сервере - §a%t'
-PLAYER_ONLINE_TIME: '§fИгрок %s §fпровел на сервере - §a%t'
+MONEY_ADD: '§cNot found'
+MONEY_SET: '§cNot found'
+BALANCE: '§cNot found'
 
 INFO_DONATE:
-  - '§7Список привилегий:'
-  - ' §8▪ §e§lGOLD §f- 15 Рублей'
-  - ' §8▪ §b§lDIAMOND §f- 50 Рублей'
-  - ' §8▪ §a§lEMERALD §f- 100 Рублей'
-  - ' §8▪ §c§lMAGMA §f- 150 Рублей'
-  - ' §8▪ §6§lSHULKER §f- 300 Рублей'
-  - ''
-  - '§7Подробное описание привилегий можно'
-  - '§7найти в разделе §fПрофиль ▸ Привилегии'
-  - ''
-  - '§7Привилегии приобретаются на сайте:'
-  - '§ewww.lazorcraft.ru'
+  - '§cNot found'
 
 #DonateGUI
-GOLD_ITEM_NAME: '§bПривилегия §eGOLD'
-GOLD_ITEM_LORE: 
-  - ''
-  - ' §8▪ §7Преффикс §e§lGOLD'
-  - ' §8▪ §7Сообщение при входе'
-  - ' §8▪ §7Доступен чат донатеров §f- /dc'
+GOLD_ITEM_NAME: '§cNot found'
+GOLD_ITEM_LORE: '§cNot found'
 
-DIAMOND_ITEM_NAME: '§bПривилегия §bDIAMOND'
-DIAMOND_ITEM_LORE:
-  - ''
-  - ' §8▪ §7Преффикс §b§lDIAMOND'
-  - ' §8▪ §7Сообщение при входе'
-  - ' §8▪ §7Доступен чат донатеров §f- /dc'
+DIAMOND_ITEM_NAME: '§cNot found'
+DIAMOND_ITEM_LORE: '§cNot found'
 
-EMERALD_ITEM_NAME: '§bПривилегия §aEMERALD'
-EMERALD_ITEM_LORE: 
-  - ''
-  - ' §8▪ §7Преффикс §a§lEMERALD'
-  - ' §8▪ §7Сообщение при входе'
-  - ' §8▪ §7Доступен чат донатеров §f- /dc'
+EMERALD_ITEM_NAME: '§cNot found'
+EMERALD_ITEM_LORE: '§cNot found'
 
-MAGMA_ITEM_NAME: '§bПривилегия §cMAGMA'
-MAGMA_ITEM_LORE:
-  - ''
-  - ' §8▪ §7Преффикс §c§lMAGMA'
-  - ' §8▪ §7Сообщение при входе'
-  - ' §8▪ §7Доступен чат донатеров §f- /dc' 
+MAGMA_ITEM_NAME: '§cNot found'
+MAGMA_ITEM_LORE: '§cNot found'
 
-SHULKER_ITEM_NAME: '§bПривилегия §6SHULKER'
-SHULKER_ITEM_LORE: 
-  - ''
-  - ' §8▪ §7Преффикс §6§lSHULKER'
-  - ' §8▪ §7Сообщение при входе'
-  - ' §8▪ §7Доступен чат донатеров §f- /dc'
-
-#Alternate
-ALTERNATE_TIME_SET: '§fУстановлено время - §a%s'
-
-ALTERNATE_KILL: '§fВы убили %s'
-ALTERNATE_INVENTORY_TO: '§fОткрываем инвентарь игрока %s'
-
-ALTERNATE_TP: '§fВы были телепортированы к игроку %s'
-ALTERNATE_TP_TO: '§fИгрок %s §fтелепортирован к игроку %t'
-ALTERNATE_TPPOS: '§fТелепортируем на координаты: §a%s'
-ALTERNATE_NUMBER_ERROR: '§cАргументы неверны, вы ввели слишком много цифр!'
-
-CLEAR_INV: '§fВсе предметы удалены'
-CLEAR_INV_TO: '§fУ игрока %s §fудалены все предметы'
-
-ALTERNATE_GLOWING: '§fРежим подсветки - %s'
-ALTERNATE_GLOWING_TO: '§fИгроку %s§f режим подсветки - %m'
-
-ALTERNATE_FLYING: '§fРежим полета - %s'
-ALTERNATE_FLYING_TO: '§fИгроку %s§f режим полета - %m'
-
-ALTERNATE_GAMEMODE_CHANGE: '§fУстановлен режим - §a%s'
-ALTERNATE_GAMEMODE_CHANGE_TO: '§fИгроку %s§f установлен режим - §a%m'
-
-COMPASS: '§fВаш компас указывает на координаты §a%s'
-
-CALL_YOU: '§cОшибка, Вы не можете отправить запрос самому себе'
-CALL_ERROR: '§cОшибка, Вы уже отправили запрос игроку %s'
-
-HEAL: '§fХП восстановлено'
-HEAL_TO: '§fХП восстановлено игроку %s'
-
-FEED: '§fГолод восстановлен'
-FEED_TO: '§fГолод восстановлен игроку %s'
-
-SURVIVAL: 'Выживание'
-ADVENTURE: 'Приключенческий'
-CREATIVE: 'Креатив'
-SPECTATOR: 'Наблюдатель'
-
-ALTERNATE_ITEMDB: '§fПредмет §a%s §f- §e%t'
-ALTERNATE_ITEMDB_ERROR: '§cОшибка, id не верен!'
-
-ALTERNATE_NEAR: 'Ближайшие игроки: %s'
-ALTERNATE_NEAR_NOT_FOUND: 'Ближайших игроков нет'
-
-LIST:
-  - '§6StarAPI §8| §fНа режиме §a%s'
-  - ' §a▪ §fАдминистрация: %a'
-  - ' §a▪ §fДонатеры: %d'
-  - ' §a▪ §fИгроки: %p'
-LIST_EMPTY: '§8Никого нет'
+SHULKER_ITEM_NAME: '§cNot found'
+SHULKER_ITEM_LORE: '§cNot found'
 
 #MiniGames
-JOIN_GAMER_ARENA: '%s §fприсоединился к игре (§a%s§f/§a%s§f)'
-QUIT_GAMER_ARENA: '%s §fпокинул игру (§c%s§f/§a%s§f)'
-ERROR_START_GAMER_ARENA: '§cОшибка, не хватает игроков для старта'
-START_GAME_ARENA: '§fИгра начнется через §a%s §f%s'
+JOIN_GAMER_ARENA: '§cNot found'
+QUIT_GAMER_ARENA: '§cNot found'
+ERROR_START_GAMER_ARENA: '§cNot found'
+START_GAME_ARENA: '§cNot found'
 
-RESTART_ARENA_MSG: '§cРестарт арены, через %s %s вы будете перемещены в лобби'
-
-BEDWARS_COMMANDS:
-  - ' §7/bw setspawn Lobby §f- установить точку Лобби'
-  - ' §7/bw setspawn Red §f- установить точку Красных'
-  - ' §7/bw setspawn Blue §f- установить точку Синих'
-  - ' §7/bw setspawn Green §f- установить точку Зеленых'
-  - ' §7/bw setspawn Yellow §f- установить точку Желтых'
-  - ' §7/bw setitem Brick §f- добавить точку спавна Бронзы'
-  - ' §7/bw setitem Iron §f- добавить точку спавна Железа'
-  - ' §7/bw setitem Gold §f- добавить точку спавна Золота'
-  - ''
-  - '§8▪ §fDeveloper of §c[ADMIN] SenpaiBae'
+RESTART_ARENA_MSG: '§cNot found'
